@@ -1,0 +1,14 @@
+title: SkillIssue
+originalAuthor: Shananas
+game: kh2
+description: Skill Issue. You'll never know what this mod does unless you cheat and look inside the mod.
+assets:
+- name: remastered/msn/us/WI02_MS103.bar/US_WI02_MS103_bar0.png
+  multi:
+  - name: remastered/msn/fr/WI02_MS103.bar/US_WI02_MS103_bar0.png
+  - name: remastered/msn/gr/WI02_MS103.bar/US_WI02_MS103_bar0.png
+  - name: remastered/msn/it/WI02_MS103.bar/US_WI02_MS103_bar0.png
+  - name: remastered/msn/sp/WI02_MS103.bar/US_WI02_MS103_bar0.png
+  method: copy
+  source:
+  - name: remastered/obfuscate
